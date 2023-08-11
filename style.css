@@ -1,0 +1,210 @@
+@import url("https://fonts.googleapis.com/css2?family=Itim&display=swap");
+
+body {
+  background-color: rgb(247, 243, 240);
+}
+
+h1 {
+  font-family: "Itim", cursive;
+  color: rgb(80, 63, 40);
+}
+
+p {
+  font-family: "Itim", cursive;
+  color: rgb(80, 63, 40);
+}
+
+header {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+header img {
+  margin-top: 10px;
+}
+
+header a {
+  font-family: "Itim", cursive;
+  text-decoration: none;
+  color: rgb(80, 63, 40);
+  font-size: 28px;
+  margin: 50px;
+}
+
+header ul {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  padding-top: 20px;
+  margin-right: 35px;
+}
+
+.BienvenidaBerry h1 {
+  font-family: "Itim", cursive;
+  text-align: center;
+}
+
+.BienvenidaBerry p {
+  font-family: "Itim", cursive;
+  font-size: 20px;
+  color: rgb(80, 63, 40);
+  text-align: justify;
+  margin-left: 30px;
+  margin-right: 30px;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 10px;
+}
+
+.BienvenidaBerry img {
+  display: block;
+  margin: auto;
+  border-radius: 10%;
+  margin-bottom: 15px;
+}
+
+.nuestrosTops {
+  font-family: "Itim", cursive;
+  text-align: center;
+}
+
+.tops {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  text-align: center;
+  width: 100%;
+}
+
+.tops p {
+  font-family: "Itim", cursive;
+  font-size: 25px;
+  color: rgb(80, 63, 40);
+}
+
+.hats {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  text-align: center;
+  width: 100%;
+}
+
+.hats p {
+  font-family: "Itim", cursive;
+  font-size: 25px;
+  color: rgb(80, 63, 40);
+}
+
+.bags {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  text-align: center;
+  width: 100%;
+}
+
+.bags p {
+  font-family: "Itim", cursive;
+  font-size: 25px;
+  color: rgb(80, 63, 40);
+}
+
+.contacto {
+  padding-top: 25px;
+}
+
+.contactoContenido {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: 100%;
+}
+
+.contacto h1 {
+  font-family: "Itim", cursive;
+  font-size: 35px;
+  text-align: center;
+  color: rgb(80, 63, 40);
+}
+
+.contactoContenido p {
+  font-family: "Itim", cursive;
+  font-size: 20px;
+  color: rgb(80, 63, 40);
+  padding-top: 10px;
+  padding-left: 3px;
+}
+
+.contactoContenido h4 {
+  font-family: "Itim", cursive;
+  color: rgb(80, 63, 40);
+  padding-top: 10px;
+}
+
+.ArmaTuRamo h1 {
+  /*margin-left: 120px;*/
+  margin-top: 120px;
+  padding-bottom: 15px;
+  display: flex;
+}
+
+/*.ArmaTuRamo {
+  margin-left: 70px;
+}*/
+
+.floresContenido {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  text-align: center;
+  width: 100%;
+}
+
+.carrusel-images {
+  width: 100%;
+  object-fit: cover;
+  padding-left: 30px;
+  padding-right: 30px;
+  height: 800px;
+}
+
+.fondo {
+    background-color: pink;
+}
+
+.instagram {
+  display: flex;
+  flex-direction: row;
+  text-justify: distribute;
+  justify-content: left;
+}
+
+.celular {
+  display: flex;
+  flex-direction: row;
+  text-justify: distribute;
+  justify-content: right;
+}
+
+.accesorios {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  text-align: center;
+  width: 100%;
+  padding-top: 10px;
+  
+}
+
+.accesorios p {
+  font-family: "Itim", cursive;
+  font-size: 25px;
+  color: rgb(80, 63, 40);
+}
